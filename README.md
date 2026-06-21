@@ -50,6 +50,7 @@ YOUTUBE DOWNLOADER PRO v6.1.0/
 
 ├── downloader.py
 ├── requirements.txt
+├── LICENSE
 └── README.md
 ```
 
@@ -166,6 +167,20 @@ Config/
 
 ## 📄 Licença
 
-Este projeto é destinado exclusivamente ao uso pessoal e educacional.
+Copyright (c) 2026 Geilson Labs Projects.
 
-O usuário é responsável por respeitar os termos de serviço do YouTube e a legislação de direitos autorais aplicável em sua região.
+Este projeto está licenciado sob uma licença personalizada de uso não comercial.
+
+É permitido utilizar, modificar e distribuir este software exclusivamente para fins pessoais, educacionais e não comerciais.
+
+O uso comercial, total ou parcial, é proibido sem autorização prévia e por escrito da Geilson Labs Projects.
+
+Consulte o arquivo `LICENSE` para obter os termos completos.
+
+---
+
+## ⚖️ Aviso Legal
+
+Este projeto é fornecido apenas para fins pessoais e educacionais.
+
+O usuário é responsável por cumprir os termos de serviço do YouTube e a legislação de direitos autorais aplicável em sua região.
